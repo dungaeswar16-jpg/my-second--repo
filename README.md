@@ -1,4 +1,4 @@
-# my-second--repo
+# my-second-repo
 student portal demo
 Basic Student Portfollo
 Attendance Tracking System
